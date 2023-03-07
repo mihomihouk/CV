@@ -29,7 +29,7 @@ Though I joined Subly as a frontend engineer, I'm now regularly working for the 
 
 ## <div align="center">Software engineering roles<div>
 
-Jul 2022 - Present: Subly</br>
+Jul 2022 - Present: [Subly](https://www.getsubly.com/)</br>
 _Junior Full Stack Engineer_
   
 Feb 2022 - Jul 2022: [if](https://code-lesson.com)</br>

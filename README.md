@@ -34,6 +34,8 @@ Frontend Engineer with 3 years of experience building responsive, high-performan
 - Proactively share technical insights and discoveries to uplift the team and accelerate collective learning
   
 # <div align="center">Projects<div>
+May 2025 - Present: [7pm @ Shinjuku Station](https://open.spotify.com/show/0G2OjEPfJDo7ub0qk5BELs)
+Podcast show that discusses the latest technology developments and takes deep dives into trending topics shaping today’s tech world
 
 Apr 2023 - July 2023: [Growcally](https://www.growcallyuk.com/)
 React, Redux, Typescript, Tailwind, Node.js, Express.js, Prisma, PostgreSQL, AWS, React-testing-library/Jest, Render

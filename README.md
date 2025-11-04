@@ -2,6 +2,12 @@
   
 Frontend Engineer with 3 years of experience building responsive, high-performance commercial web applications using React, TypeScript, PHP, Tailwind CSS, and Material UI. Skilled in taking full ownership of the UI/UX process — from user interviews and mockups to design systems — to deliver cohesive, user-centred experiences. Proactively research and implement modern technologies, contributing to efficient, maintainable front-end architectures. A collaborative, outcome-driven team player passionate about fostering strong, inclusive teams and aligning design and development toward shared goals.
 
+# <div align="center">Links<div>
+
+- [LinkedIn](https://www.linkedin.com/in/miho-inagaki/)
+- [Website](https://mihoinagaki.com/)
+- [Podcast](https://open.spotify.com/show/0G2OjEPfJDo7ub0qk5BELs?si=e8571f9db46045c4)
+
 # <div align="center">Skills<div>
 
 ## <div align="center">Tech stack</div>
@@ -11,9 +17,10 @@ Frontend Engineer with 3 years of experience building responsive, high-performan
 - Typescript
 - Frontend testing frameworks (React testing library, Vitest and Jest)
 - E2E framework (Playwright)
-- CSS frameworks (Tailwindn CSS and Material UI)
+- CSS frameworks (Tailwind CSS and Material UI)
 - PHP
 - SQL
+- Figma
 
 ## <div align="center">Multi-skilled</div>
 
@@ -36,6 +43,9 @@ Frontend Engineer with 3 years of experience building responsive, high-performan
 # <div align="center">Projects<div>
 May 2025 - Present: [7pm @ Shinjuku Station](https://open.spotify.com/show/0G2OjEPfJDo7ub0qk5BELs)
 Podcast show that discusses the latest technology developments and takes deep dives into trending topics shaping today’s tech world
+
+Nov 2024 - Jan 2025: [MoonWriting Website Renewal](https://www.moonwriting.me/)
+End-to-end redesign of the website, transforming it into a minimalistic, content-focused platform with Figma and WordPress
 
 Apr 2023 - July 2023: [Growcally](https://www.growcallyuk.com/)
 React, Redux, Typescript, Tailwind, Node.js, Express.js, Prisma, PostgreSQL, AWS, React-testing-library/Jest, Render

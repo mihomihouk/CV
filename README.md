@@ -1,6 +1,8 @@
 # <div align="center">Miho Inagaki<div>
   
-Frontend Engineer with 3 years of experience building responsive, high-performance commercial web applications using React, TypeScript, PHP, Tailwind CSS, and Material UI. Skilled in taking full ownership of the UI/UX process — from user interviews and mockups to design systems — to deliver cohesive, user-centred experiences. Proactively research and implement modern technologies, contributing to efficient, maintainable front-end architectures. A collaborative, outcome-driven team player passionate about fostering strong, inclusive teams and aligning design and development toward shared goals.
+Frontend / Full-Stack Engineer and UI/UX Designer with 3 years of experience building responsive, high-performance web applications using React, TypeScript, PHP, Tailwind CSS, and Material UI. Experienced in leading end-to-end product development — from user research and mockups to scalable frontend architecture, API integration, and testing — to deliver cohesive, user-centred solutions.
+
+Hold a Google UX Design Professional Certificate and have developed reusable design systems and accessible UI components following W3C guidelines. Passionate about bridging design and engineering, exploring new technologies, and crafting intuitive digital experiences that balance functionality, performance, and delight.
 
 # <div align="center">Links<div>
 
@@ -19,14 +21,15 @@ Frontend Engineer with 3 years of experience building responsive, high-performan
 - E2E framework (Playwright)
 - CSS frameworks (Tailwind CSS and Material UI)
 - PHP
+- Node.js
 - SQL
 - Figma
 
 ## <div align="center">Multi-skilled</div>
 
 - 3 years’ experience in small, cross-functional teams have shaped me into a versatile, multi-skilled developer who can contribute across the product lifecycle
-- End-to-end expertise: defining features, researching and selecting technologies, performing code reviews, frontend development, E2E testing, and crafting intuitive UI/UX
-- UI/UX skills: design wireframes and mockups in Figma, develop scalable design systems, and bridge gaps between design and frontend teams to ensure cohesive products
+- End-to-end expertise: defining features, researching and selecting technologies, performing code reviews, feature development, E2E testing, and crafting intuitive UI/UX
+- UI/UX skills: design wireframes and mockups in Figma, develop scalable design systems, and bridge gaps between design and engineer teams to ensure cohesive products
 - Project management: translate abstract feature requests into actionable tasks, provide data-driven suggestions while balancing deadlines and resources, and gather user feedback to drive product improvements
 
 ## <div align="center">Committed to Outcomes</div>
